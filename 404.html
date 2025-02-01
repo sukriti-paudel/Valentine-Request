@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; URL=./">
+    <script>
+      // Redirect to the correct React route while keeping the path
+      var redirectUrl = window.location.pathname;
+      window.location.replace("/Valentine-Request" + redirectUrl);
+    </script>
   </head>
   <body>
   </body>
 </html>
-
