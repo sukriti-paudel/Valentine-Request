@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Valentine’s Day Interactive Card
 This project is a fun and interactive Valentine's Day card built using React. You can use it as a personalized Valentine's message for your partner! The card displays a sweet message and a fun "Will you be my valentine?" request, with interactive buttons and animations.
 This project was inspired by a reel on Instagram, and it allows you to customize the message with a dynamic username. If you're looking for a way to surprise your partner with something creative, this is a perfect little project!
@@ -10,3 +11,13 @@ This project was inspired by a reel on Instagram, and it allows you to customize
 1. React: JavaScript library for building user interfaces.
 2. React Router: For managing the navigation and dynamic routes.
 3. Framer Motion: For smooth animations and transitions.
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> master
