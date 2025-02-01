@@ -8,7 +8,7 @@ import { useParams } from 'react-router-dom';
 
 function App() {
   return (
-    <Router >
+    <Router basename="/Valentine-Request/">
       <Routes>
         {/* Redirect from root to '/Maya' */}
         <Route path="/" element={<Navigate to="/Maya" replace />} />
