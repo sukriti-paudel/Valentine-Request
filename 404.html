@@ -2,9 +2,15 @@
 <html>
   <head>
     <script>
-      // Redirect to the correct React route while keeping the path
-      var redirectUrl = window.location.pathname;
-      window.location.replace("/Valentine-Request" + redirectUrl);
+      // Get the current path after /Valentine-Request
+      var path = window.location.pathname.replace('/Valentine-Request', '');
+      
+      // Redirect only if there's a path to preserve
+      if (path !== '/') {
+        window.location.replace("/Valentine-Request/#" + path);
+      } else {
+        window.location.replace("/Valentine-Request/");
+      }
     </script>
   </head>
   <body>
