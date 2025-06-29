@@ -8,7 +8,7 @@ A reel on Instagram inspired this project, allowing you to customize the message
 3. Randomized Button Placement: Click the "No" button, and watch the "Yes" buttons appear at random locations!
 4. Sliding Transitions: After the request, a congratulatory message with a celebratory "Tada!" effect pops up with a smooth sliding transition.
 # Technologies Used
-1. React: JavaScript library for building user interfaces.
+1. React: JavaScript library for building user interfaces.<br/>
 2. React Router: For managing the navigation and dynamic routes.
 3. Framer Motion: For smooth animations and transitions.
 #Things to do:
