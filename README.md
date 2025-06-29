@@ -12,8 +12,8 @@ A reel on Instagram inspired this project, allowing you to customize the message
 2. React Router: For managing the navigation and dynamic routes.
 3. Framer Motion: For smooth animations and transitions.
 #Things to do:
-1. make it a responsive website
-=======
+1. make it a responsive website <br/>
+================================================================================================================================================================
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
